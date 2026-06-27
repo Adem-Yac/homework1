@@ -1,0 +1,6 @@
+Q1: False
+Q2: true
+Q3: False
+Q4: B -> (20, 40)
+Q5: C -> void greet({required String name}) {}
+Q6: B -> 0
